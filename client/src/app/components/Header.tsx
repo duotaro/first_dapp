@@ -116,7 +116,7 @@ const Header = () => {
             title="DisConnect"
             className={`${buttonStyle} bg-indigo-900 text-white `}
           >
-            DisConnect ( {state.currentAccount} )
+            disconnect ( {state.currentAccount} )
           </button>
         )}
                 </div>
